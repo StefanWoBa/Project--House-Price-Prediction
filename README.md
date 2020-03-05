@@ -3,6 +3,8 @@ This project is centered around exploratory data analysis (EDA) techniques and s
 
 Building a house price prediciton model for King County.
 
+**Business Case**: Presenting the key factors which affect the house prices to people who are interested in buying a house in the near future. Special interest: low- and middle price segment and ways to potentially save some money.
+
 # Going through Data Science Life Cycle:
 
  ## 01 Business Understanding
